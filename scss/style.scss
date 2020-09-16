@@ -1,0 +1,15 @@
+@import "_header";
+@import "_main";
+@import "_footer";
+
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: "Poppins", sans-serif;
+}
+
+body {
+   background: #0a2a43;
+   min-height: 1500px;
+}
