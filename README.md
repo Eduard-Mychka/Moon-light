@@ -1,2 +1,1 @@
-# Moon Light
-https://eduard-mychka.github.io/moon-light/
+# [Demo Moon Light](https://eduard-mychka.github.io/moon-light/)
